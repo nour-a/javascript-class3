@@ -1,30 +1,24 @@
 # JavaScript III
 
+Clone me!
+
+```
+git clone https://github.com/Code-Your-Future/javascript-class3.git
+```
+
 ## Session structure
 
-* Review of homework
 
-* Clone this repo
+1) Review of homework
 
-* What do we know about JS
+2) Recap: what do we know about JS so far?
 
-* Objects and Arrays
-  - intro
-  - pair on exercises
-  - push work up and review
+3) Objects `{}` and Arrays `[]`!
 
-* Lunch
+4) Working with the DOM
 
-* Working with the DOM
-  - intro
-  - exercise: rebuild instagram with JS DOM manipulation.
-  - review
+5) DOM Events
 
-* Events
-  - intro
-  - exercise: add a 'like' button and a 'load more' button
-  - review
+6) Review class topics
 
-* Review the topics from the class
-
-* Set homework and assign peer reviewers for homework
+7) Set homework and assign peer reviewers for homework

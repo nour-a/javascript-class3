@@ -73,9 +73,7 @@ or...
 ||
 ```
 
-Cool!
-
-How about these guys:
+How about these...?
 
 ``` javascript
 {}

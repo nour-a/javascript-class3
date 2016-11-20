@@ -37,11 +37,11 @@ for (var property in theo) {
 => 'fullname is Theo Leanse'
 
 theo.speak = function (whatToSay) {
-	console.log('Hi, I'm ' + this.fullname + '. ' + whatToSay);
+	console.log('Hi, I\'m ' + this.fullname + '. ' + whatToSay);
 }
 
 theo.speak('Nice to meet you!')
-=> 'Hi, I'm Theo Leanse. Nice to meet you!'
+=> 'Hi, I\'m Theo Leanse. Nice to meet you!'
 
 // also...
 
@@ -52,7 +52,7 @@ typeof console;
 => false
 ```
 
-## Arrays.
+## Arrays
 
 ```javascript
 var bestFilmsEver = ['The Godfather Part I', 'The Godfather Part II'];
